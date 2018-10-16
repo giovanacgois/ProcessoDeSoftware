@@ -1,0 +1,7 @@
+\babel@toc {brazil}{}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{4}
+\contentsline {section}{\numberline {2}Processo}{4}
+\contentsline {subsection}{\numberline {2.1}Papeis}{4}
+\contentsline {subsection}{\numberline {2.2}Execu\IeC {\c c}\IeC {\~a}o do projeto}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}Abordagem e Coleta de Requisitos}{5}
+\contentsline {subsubsection}{\numberline {2.2.2}Desenvolvimento do Produto de Software}{5}
