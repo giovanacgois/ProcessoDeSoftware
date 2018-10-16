@@ -5,6 +5,18 @@ Este projeto reúne as atividades de documentação de processo de software, pro
 
 ## Conteúdo
 
+### Especificação do Processo de Software
+Template LaTeX que apresenta o detalhamento do processo de software de
+uma empresa de Desenvolvimento Web voltada à cração de sites. O
+cenário representado é composto por sete colaboradores. Os clientes são
+empresas e prossionais que desejam incluir seu negócio ou serviço na esfera
+digital, que ainda não possuem site ou *landing page*. O estudo desse cenário
+foi desenvolvido por constatar que em grande parte das vezes esse tipo de
+produto é produzido \informalmente", sem realizar controle do processo.
+
+São apresentados também os diagramas BPMN que ilustram o cenário adotado para estudo nessa disciplina.
+
+
 ### Guia Para Documentação de Processo
 Nesse documento são propostos templates para documentação de processos de criação de websites profissionais e comerciais, que muitas vezes é realizado por pequenas empresas ou profissionais freelancers sem qualquer tipo de documentação.
 
