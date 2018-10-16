@@ -5,7 +5,7 @@ Este projeto reúne as atividades de documentação de processo de software, pro
 
 ## Conteúdo
 
-[### Especificação do Processo de Software](https://github.com/giovanacgois/ProcessoDeSoftware/tree/master/ATIV4_Especifica%C3%A7%C3%A3o_Processo_Software)
+### Especificação do Processo de Software [(Link)](https://github.com/giovanacgois/ProcessoDeSoftware/tree/master/ATIV4_Especifica%C3%A7%C3%A3o_Processo_Software)
 Template LaTeX que apresenta o detalhamento do processo de software de
 uma empresa de Desenvolvimento Web voltada à cração de sites. O
 cenário representado é composto por sete colaboradores. Os clientes são
@@ -17,7 +17,7 @@ produto é produzido \informalmente", sem realizar controle do processo.
 São apresentados também os diagramas BPMN que ilustram o cenário adotado para estudo nessa disciplina.
 
 
-[### Guia de Componentes Para Documentação de Processo](https://github.com/giovanacgois/ProcessoDeSoftware/tree/master/ATIV5_Modelos_Doctos_Processo)
+### Guia de Componentes Para Documentação de Processo [(Link)](https://github.com/giovanacgois/ProcessoDeSoftware/tree/master/ATIV5_Modelos_Doctos_Processo)
 Nesse documento são propostos templates para documentação de processos de criação de websites profissionais e comerciais, que muitas vezes é realizado por pequenas empresas ou profissionais freelancers sem qualquer tipo de documentação.
 
 Nesse guia, serão propostos os modelos:
