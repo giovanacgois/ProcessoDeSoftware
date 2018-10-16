@@ -6,13 +6,9 @@ Este projeto reúne as atividades de documentação de processo de software, pro
 ## Conteúdo
 
 ### Especificação do Processo de Software [(Link)](https://github.com/giovanacgois/ProcessoDeSoftware/tree/master/ATIV4_Especifica%C3%A7%C3%A3o_Processo_Software)
-Template LaTeX que apresenta o detalhamento do processo de software de
-uma empresa de Desenvolvimento Web voltada à cração de sites. O
-cenário representado é composto por sete colaboradores. Os clientes são
-empresas e prossionais que desejam incluir seu negócio ou serviço na esfera
-digital, que ainda não possuem site ou *landing page*. O estudo desse cenário
-foi desenvolvido por constatar que em grande parte das vezes esse tipo de
-produto é produzido \informalmente", sem realizar controle do processo.
+Template LaTeX que apresenta o detalhamento do processo de software de uma empresa de Desenvolvimento Web voltada à cração de sites.
+
+O cenário representado é composto por sete colaboradores. Os clientes são empresas e profissionais que desejam incluir seu negócio ou serviço na esfera digital, que ainda não possuem site ou *landing page*. O estudo desse cenário foi desenvolvido por constatar que em grande parte das vezes esse tipo de produto é produzido "informalmente", sem realizar controle do processo.
 
 São apresentados também os diagramas BPMN que ilustram o cenário adotado para estudo nessa disciplina.
 
