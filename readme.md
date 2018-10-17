@@ -43,4 +43,8 @@ Nesse guia, serão propostos os modelos:
 
 > Utilizado para documentar as entregas parciais (ou final) do projeto
 > ao Cliente, de modo a documentar também o Feedback para revisões ou
-> alterações do artefato gerado.
+> alterações do artefato gerado
+
+### Visão Estática do Processo
+> Apresenta descrição das fases e atividades do processo, seus papeis,
+ferramentas, sintetizando entradas e saídas.
