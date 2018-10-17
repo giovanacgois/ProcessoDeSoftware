@@ -45,6 +45,6 @@ Nesse guia, serão propostos os modelos:
 > ao Cliente, de modo a documentar também o Feedback para revisões ou
 > alterações do artefato gerado
 
-### Visão Estática do Processo
+### Visão Estática do Processo [(Link)](https://github.com/giovanacgois/ProcessoDeSoftware/tree/master/Ativ_6_	Visão_Estática_Processo)
 > Apresenta descrição das fases e atividades do processo, seus papeis,
 ferramentas, sintetizando entradas e saídas.
