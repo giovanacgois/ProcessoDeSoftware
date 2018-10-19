@@ -45,6 +45,12 @@ Nesse guia, serão propostos os modelos:
 > ao Cliente, de modo a documentar também o Feedback para revisões ou
 > alterações do artefato gerado
 
-### Visão Estática do Processo [(Link)](https://github.com/giovanacgois/ProcessoDeSoftware/tree/master/Ativ_6_Visão_Estática_Processo)
+### Visão Estática do Processo [(Link)](https://github.com/giovanacgois/ProcessoDeSoftware/tree/master/Ativ6_Visão_Estática_Processo)
 > Apresenta descrição das fases e atividades do processo, seus papeis,
-ferramentas, sintetizando entradas e saídas.
+ferramentas, sintetizando entradas e saídas
+
+### Análise de Variáveis Externas [(Link)](https://github.com/giovanacgois/ProcessoDeSoftware/ATIV7_Análise_SWOT.pdf)
+> Apresenta os papeis envolvidos no processo e suas competências pessoais/de ação. Apresenta, ainda, Análise SWOT do processo de Software.
+
+### Proposta de Melhorias do Processo [(Link)](https://github.com/giovanacgois/ProcessoDeSoftware/ATIV8_Proposta_Melhorias_Processo.pdf)
+> Apresenta a análise e proposta de melhorias do processo.
